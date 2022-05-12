@@ -3,7 +3,7 @@ const Joi = require('joi');
 const schema = Joi.object().keys((
   {
     se_ac: 'suggest_click-0',
-    se_ca: 'search_boox',
+    se_ca: 'search_box',
     se_la: 'vacancy',
     se_pr: 'main_page',
     se_va: 'Менеджер',
